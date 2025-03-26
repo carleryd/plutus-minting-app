@@ -1,5 +1,7 @@
 # 🪙 Minting App 💸
-This repo is the basis of my NFT minting app running on https://carleryd.tech
+<b>Update 26/3/2025:</b> This repo is now very out of date, not maintained, and therefore no longer hosted.
+
+~~This repo is the basis of my NFT minting app running on https://carleryd.tech~~
 
 It can be interacted with by connecting to a users [Nami wallet](https://github.com/Berry-Pool/nami-wallet).
 The functionality is simple. The user enters a preferred name for the NFT and then sends 5 ada to the wallet running on the backend. Once the backend wallet has confirmed the payment transaction, an NFT with the chosen name is minted and sent to the users Nami wallet.
